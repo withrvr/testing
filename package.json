@@ -1,0 +1,11 @@
+{
+	"name": "testing",
+	"version": "0.1.0",
+	"main": "server.js",
+	"repository": "https://github.com/withrvr/testing.git",
+	"author": "Raghav Rathi ~ @withrvr",
+	"license": "MIT",
+	"dependencies": {
+		"express": "^4.17.2"
+	}
+}
