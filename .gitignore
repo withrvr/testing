@@ -7,3 +7,5 @@ foo.*
 bar.*
 foobar.*
 
+# node related
+node_modules
