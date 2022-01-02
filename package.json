@@ -1,11 +1,28 @@
 {
 	"name": "testing",
 	"version": "0.1.0",
-	"main": "server.js",
-	"repository": "https://github.com/withrvr/testing.git",
+	"description": "@withrvr Testing Repo",
 	"author": "Raghav Rathi ~ @withrvr",
 	"license": "MIT",
 	"dependencies": {
 		"express": "^4.17.2"
+	},
+	"devDependencies": {},
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/withrvr/testing.git"
+	},
+	"keywords": [
+		"testing"
+	],
+	"bugs": {
+		"url": "https://github.com/withrvr/testing/issues"
+	},
+	"homepage": "https://github.com/withrvr/testing#readme",
+	"directories": {
+		"doc": "docs"
 	}
 }
